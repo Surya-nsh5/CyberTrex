@@ -1,6 +1,6 @@
 # CyberTrex
 Project Build By CyberTrex Team <br>
-Team Members : <br> 1. Suryansh Chauhan <br>
+<b><u> Team Members : </u></b> <br><br> 1. Suryansh Chauhan <br>
                2. Ashutosh Negi <br>
                3. Piyush Mittal <br>
                4. Sonu Raj <br>
