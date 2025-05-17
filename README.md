@@ -1,8 +1,8 @@
 # CyberTrex
 Project Build By CyberTrex Team
-Team Members : 1. Suryansh Chauhan
-               2. Ashutosh Negi
-               3. Piyush Mittal
+Team Members : 1. Suryansh Chauhan \n
+               2. Ashutosh Negi \n
+               3. Piyush Mittal \n
                4. Sonu Raj 
 
 # 🛡️ Malware Detection System
