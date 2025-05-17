@@ -1,5 +1,5 @@
 # CyberTrex
-Project Build By CyberTrex Team <br><br>
+Project Build By CyberTrex Team <br>
 ### Team Members : <br> 
 1. Suryansh Chauhan <br>
 2. Ashutosh Negi <br>
