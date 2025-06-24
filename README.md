@@ -32,4 +32,13 @@ A Machine Learning-based Malware Detection System designed to identify malicious
 - Flask    
 - Custom or open-source malware datasets
 
+---
+
+## 🧠 Steps How To Use?
+
+- Download the zip file given above.
+- Extract the zip file after install in your system.
+- Then Install the required libraries in your system as given in program.
+- Use it by using app.py file in the folder.
+
 
