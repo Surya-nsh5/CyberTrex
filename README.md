@@ -41,4 +41,3 @@ A Machine Learning-based Malware Detection System designed to identify malicious
 - Then Install the required libraries in your system as given in program.
 - Use it by using app.py file in the folder.
 
-
