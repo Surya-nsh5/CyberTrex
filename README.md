@@ -1,6 +1,9 @@
 # CyberTrex
+
 Project Build By CyberTrex Team <br>
-### Team Members : <br> 
+
+### Team Members : <br>
+
 1. Suryansh Chauhan <br>
 2. Ashutosh Negi <br>
 3. Piyush Mittal <br>
@@ -25,11 +28,11 @@ A Machine Learning-based Malware Detection System designed to identify malicious
 
 ## 🧠 Technologies Used
 
-- Python 
-- HTML, CSS and JavaScript 
-- Scikit-learn / PyTorch  
-- Pandas, NumPy  
-- Flask    
+- Python
+- HTML, CSS and JavaScript
+- Scikit-learn / PyTorch
+- Pandas, NumPy
+- Flask
 - Custom or open-source malware datasets
 
 ---
@@ -40,4 +43,3 @@ A Machine Learning-based Malware Detection System designed to identify malicious
 - Extract the zip file after install in your system.
 - Then Install the required libraries in your system as given in program.
 - Use it by using app.py file in the folder.
-
